@@ -29,6 +29,7 @@ Nepali dataset (ours): https://www.kaggle.com/datasets/bipeshrajsubedi/msvd-nepa
 Models Explored:
 CNN: ResNet-101, EfficientNetB0, VGG16
 RNN: LSTM, GRU, BiLSTM
+Number of frames per video: 30
 
 Findings:
 - EfficientNetBO also performed well with LSTM and GRU, surpassing ResNet-101 and VGG16.
