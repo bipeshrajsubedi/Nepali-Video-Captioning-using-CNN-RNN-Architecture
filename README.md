@@ -10,6 +10,7 @@ BiLSTM. Evaluation involves BLEU and METEOR metrics, with
 the best model being EfficientNetB0 + BiLSTM with 1024 hidden
 dimensions, achieving a BLEU-4 score of 17 and METEOR score
 of 46.
+
 Dataset: MSVD
 Original dataset: https://www.cs.utexas.edu/users/ml/clamp/videoDescription/
 @InProceedings{chen:acl11,
